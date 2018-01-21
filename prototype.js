@@ -22,7 +22,7 @@ function Developer(specialty, language, tool) {
 }
 
 Developer.prototype = {
-  githubPage : function(){alert("http://username.github.io/");},
+  githubPage : function(){alert("https://cheon-jh.github.io/HomeWork/");},
   gcp :  function(){alert('http://firebase.com/');}
 };
 var student = new Developer('Virtual Machine','C#','VS2015');
