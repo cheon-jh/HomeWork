@@ -25,4 +25,4 @@ Developer.prototype = {
   githubPage : function(){alert("http://username.github.io/");},
   gcp :  function(){alert('http://firebase.com/');}
 };
-var student = new Developer('Virutal Machine','C#','VS2015');
+var student = new Developer('Virtual Machine','C#','VS2015');
